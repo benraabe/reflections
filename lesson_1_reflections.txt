@@ -1,0 +1,15 @@
+I saw the place where I did edits. With that it was easier to spot the bug,
+since it could have been only in my last edits.
+
+I can see the dependencies better.
+
+The commits can be put at logical places
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+- because in coding files are highly interdependent
+
+How can you use the commands git log and git diff to view the history of files?
+- by showing all commits and comparing them
+
+How might using version control make you more confident to make changes that could break something?
+-It is easier to reverse
